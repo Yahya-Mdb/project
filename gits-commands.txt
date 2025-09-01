@@ -1,0 +1,20 @@
+commands:
+//
+git: showing all the command.
+//
+git init: create a emty repository
+//
+git add <file name>: add one file to repository
+//
+git add .: add all files to repository
+//
+git status: showing the status of files.
+//
+git commit: commiting the files.
+//
+git commit -m "": commiting the files with a message.
+//
+git commit -a -m "": commiting the files with adding them with a message.
+//
+-h: help.
+//
