@@ -18,3 +18,22 @@ git commit -a -m "": commiting the files with adding them with a message.
 //
 -h: help.
 //
+git rm --cached <file name>: remove the file from repository.
+//
+git rm --cached -r .: remove all files from repository.
+//
+git diff: showing all the chnges.
+//
+git diff --help: showing diff command's informations.
+//
+git log: showing commits.
+//
+git log --help: log command informations.
+//
+git log --oneline: showing commits in oneline.
+//
+git log <last(number)commits> --oneline: showing last desired commits.
+//
+git checkout -- < . or file name >: Reverting to the previous state.
+//
+git reset HEAD < . or file name >: files are not added anymore.
