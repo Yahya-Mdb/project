@@ -42,4 +42,15 @@ git reset <commit's number>: reverting to the commit.
 //
 git reset --hard <commit's number>: reverting to the commit and delete the commits before it.
 //
-git branch --help: shoeing the details of branch.
+git branch --help: showing the details of branch.
+//
+git branch <branch name>: create a branch.
+//
+git branch -a: showing the branches.
+//
+git checkout <branch name>: switch to desired branch.
+//
+git checkout -b <branch name>: create a branch and switch to desired branch.
+//
+git branch <branch name> -d: delete the desired branch.
+//
